@@ -1,1 +1,1 @@
-# SVM_Kernal
+### implemented SVM using polynomial kernel
